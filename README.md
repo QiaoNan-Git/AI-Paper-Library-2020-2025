@@ -57,7 +57,5 @@ A curated collection of research papers from **ICML**, **ICLR**, and **NeurIPS**
 
 ---
 
-2. Enter the corresponding **access code**.  
-3. Browse, download, and explore the papers.
 
 If you find this repository useful, consider giving it a ⭐.
